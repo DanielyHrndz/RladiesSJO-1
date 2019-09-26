@@ -91,7 +91,7 @@ Seguinos:
 
 **Decimocuarta reunión (Jueves 26 de setiembre 2019)**
 
--[Introducción a Bookdown] (https://github.com/malfaro2/RladiesSJO/blob/master/intro%20bookdown.Rmd)
+-[Introducción a Bookdown](https://github.com/malfaro2/RladiesSJO/blob/master/intro%20bookdown.Rmd)
 
 Lugar: Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica 
 
