@@ -100,10 +100,9 @@ Lugar: Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica
 - [Introducción a Xaringan](https://malfaro2.github.io/RladiesSJO/xaringan.html#1)
 - [Código](https://github.com/malfaro2/RladiesSJO/blob/master/xaringan.Rmd)
 
-
-Lugar: Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica 
+Lugar: Sala 2 de audiovisuales, Biblioteca Tinoco, Universidad de Costa Rica 
 
 **Próximas reuniones** 
 
-Octubre 2019
+Noviembre 2019
 
