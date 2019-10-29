@@ -95,6 +95,14 @@ Seguinos:
 
 Lugar: Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica 
 
+**Decimoquinta reunión (Martes 29 de octubre 2019)**
+
+- [Introducción a Xaringan](https://malfaro2.github.io/RladiesSJO/xaringan.html#1)
+- [Código](https://malfaro2.github.io/RladiesSJO/xaringan.Rmd)
+
+
+Lugar: Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica 
+
 **Próximas reuniones** 
 
 Octubre 2019
