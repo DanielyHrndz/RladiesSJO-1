@@ -27,4 +27,4 @@ Para que estés segur@ de tener todos los paquetes que vamos a utilizar lo mejor
     install.packages(c("hflights", "dplyr", "readr")) 
 
 ## Organiza
-Este evento lo organiza [Data Latam](http://wwww.datalatam.com) en cooperación con [ixpantia](https://www.ixpantia.com) y la Asociación de Estudiantes de Estadística de la UCR. Data Latam es una comunidad Latinoamericana de profesionales y académicos aplicando ciencia de datos en su día a día en la industria de datos en Latino América. En sus eventos, cursos y programas de extensión exploramos tecnologías, aprendemos sobre ciencia de datos, hablamos de tendencias y eventos relevantes de la industria, y compartimos novedades del sector.
+Organiza Rladies San José, Costa Rica y el código fue proporcionado por Ing. Julio Viales de Western Union.
